@@ -186,8 +186,5 @@ O resultado será gerado na pasta `output`. O nome do arquivo de saída será o 
   <li><a href="https://github.com/AldoNunes001"><img height="30" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"  /></a><strong>  Aldo Nunes</strong></li>
   <li><a href="https://github.com/dancorreia-swe"><img height="30" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"  /></a><strong>  Daniel Correia</strong></li>
   <li><a href="https://github.com/iagomauricioo"><img height="30" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"  /></a><strong>  Iago Mauricio</strong></li>
-  <li>()() ➡️ Daniel Correia</li>
-  <li>()() ➡️ Iago Mauricio</li>
 </ol>
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)](#)
