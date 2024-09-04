@@ -95,10 +95,10 @@
 </div>
 
 
-<h2 align="left">Solução proposta</h2>
+<h2 align="center">Solução proposta</h2>
 <p align="left">Nossa solução adota uma abordagem inovadora utilizando "Large Language Models"(LLMs) para identificar e extrair informações importantes dos dados de entrada, transformando-os em um JSON estruturado. Esta metodologia permite a extração inteligente de informações, lidando eficazmente com diferentes níveis de ambiguidade e complexidade dos formatos de entrada.</p>
 
-<h2 align="left">Arquitetura criada e utilizada</h2>
+<h2 align="center">Arquitetura criada e utilizada</h2>
 
 <div align="center">
   <img height="auto" src="https://github.com/user-attachments/assets/066cebf1-573b-4b2c-bc68-f47b1ec2930f"  />
