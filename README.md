@@ -6,7 +6,7 @@
   <img height="200" src="https://image.slidesharecdn.com/institucionaltechbizforensedigital-100701092914-phpapp02/85/institucional-techbiz-forense-digital-1-320.jpg?cb=1670119558"  />
 </div>
 <div align="center">
-  <img height="100" src="https://github.com/user-attachments/assets/77f9bbb7-41cd-4c22-98fb-21e352900992"  />
+  <img height="100" src="https://github.com/user-attachments/assets/f428608e-3af5-4ca2-b9a9-93ca130472a6"  />
 </div>
   
 
