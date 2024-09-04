@@ -183,7 +183,7 @@ O resultado será gerado na pasta `output`. O nome do arquivo de saída será o 
 
 <h2>Github dos integrantes da equipe</h2>
 <ol>
-  <li><a href="https://github.com/AldoNunes001"><img height="30" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"  /> </a><span width="20"></span> => Aldo Nunes </li>
+  <li><a href="https://github.com/AldoNunes001"><img height="30" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"  /> <h2>Aldo Nunes</h2></li>
   <li>(https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)(https://github.com/dancorreia-swe) ➡️ Daniel Correia</li>
   <li>(https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)(https://github.com/iagomauricioo) ➡️ Iago Mauricio</li>
 </ol>
