@@ -104,7 +104,7 @@
 <h2 align="center">Arquitetura criada e utilizada</h2>
 
 <div align="center">
-  <img height="auto" src="https://github.com/user-attachments/assets/bce6bac2-873e-4e03-ba27-2eadafe5718b"  />
+  <img height="auto" src="https://github.com/user-attachments/assets/ac6537eb-db3f-4ac9-a8ae-a7556daae2f3"  />
 </div>
 
 ###
