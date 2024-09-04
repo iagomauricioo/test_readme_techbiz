@@ -139,3 +139,44 @@ Simplicidade na Implementação e Manutenção:
     A abordagem centralizada em LLM permite uma implementação mais simples, com manutenção facilitada e escalabilidade para futuros aprimoramentos.
   </li>
 </ol>
+
+
+## Como testar
+Para testar o código, siga as etapas abaixo:
+
+### 1. **Instalação de Dependências**
+Este projeto usa Python e as dependências são gerenciadas com o Poetry. Você pode instalar as dependências de duas maneiras:
+
+#### Usando Poetry
+Se você já tem o Poetry instalado, basta rodar o comando abaixo no diretório do projeto para instalar todas as dependências:
+
+```bash
+poetry install
+```
+
+#### Usando pip e requirements.txt
+Se você preferir usar pip, pode instalar as dependências diretamente a partir do arquivo requirements.txt:
+
+```bash
+pip install -r requirements.txt
+```
+
+### 2. **Preparar o Arquivo de Entrada**
+Coloque o arquivo de entrada que deseja processar na pasta `data` do projeto.
+
+### 3. **Configurar o Caminho do Arquivo de Entrada**
+Abra o arquivo `zExtractor.py` e defina a variável `input_file_path` com o caminho do arquivo de entrada. O caminho deve apontar para o arquivo dentro da pasta `data`. Por exemplo:
+
+```python
+input_file_path = "data/seu_arquivo_de_entrada.ext"
+```
+
+### 4. **Executar o Código**
+Com as dependências instaladas e o caminho do arquivo de entrada configurado, execute o código rodando o seguinte comando:
+
+```python
+python zExtractor.py
+```
+
+### 5. **Verificar o Resultado**
+O resultado será gerado na pasta `output`. O nome do arquivo de saída será o mesmo nome do arquivo de entrada, com o sufixo `_output.json`. Por exemplo, se o arquivo de entrada se chamar `seu_arquivo_de_entrada.ext`, o resultado estará em `output/seu_arquivo_de_entrada_output.json`.
