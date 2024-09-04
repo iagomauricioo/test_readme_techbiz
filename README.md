@@ -87,11 +87,11 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
-  <img width="50" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="40" alt="jupyter logo"  />
-  <img width="50" />
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white" height="40" alt="ChatGPT logo"  />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="60" alt="python logo"  />
+  <img width="70" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="60" alt="jupyter logo"  />
+  <img width="70" />
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white" height="60" alt="ChatGPT logo"  />
 </div>
 
 
