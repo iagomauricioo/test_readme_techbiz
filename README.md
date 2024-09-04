@@ -109,7 +109,7 @@
 
 ###
 
-<h2 align="center">Componentes da Solução</h2>
+<h2 align="left">Componentes da Solução</h2>
 <p align="left">A solução é centrada em um LLM que executa a seguinte tarefa principal:
 <ol>
   <li>
