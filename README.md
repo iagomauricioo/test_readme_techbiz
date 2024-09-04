@@ -95,7 +95,7 @@
   
 </div>
 
-<h3 align="center">Arquitetura criada e utilizada</h3>
+<h2 align="center">Arquitetura criada e utilizada</h3>
 
 <div align="center">
   <img height="auto" src="https://github.com/user-attachments/assets/066cebf1-573b-4b2c-bc68-f47b1ec2930f"  />
