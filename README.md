@@ -82,17 +82,14 @@
 }
 ```
 
-<h3 align="left">Tecnologias utilizadas</h3>
+<h3 align="center">Tecnologias utilizadas</h3>
 
 ###
 
-<div align="left">
+<div align="left" style="display: flex; justify-content: space-around;">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
-  <img width="12" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="40" alt="jupyter logo"  />
-  <img width="12" />
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white" height="40" alt="ChatGPT logo"  />
-  
 </div>
 
 
