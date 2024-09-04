@@ -180,3 +180,10 @@ python zExtractor.py
 
 ### 5. **Verificar o Resultado**
 O resultado será gerado na pasta `output`. O nome do arquivo de saída será o mesmo nome do arquivo de entrada, com o sufixo `_output.json`. Por exemplo, se o arquivo de entrada se chamar `seu_arquivo_de_entrada.ext`, o resultado estará em `output/seu_arquivo_de_entrada_output.json`.
+
+<h2>Github dos integrantes da equipe</h2>
+<ol>
+  <li>[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/AldoNunes001) ➡️ Aldo Nunes</li>
+  <li>[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/dancorreia-swe) ➡️ Daniel Correia</li>
+  <li>[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/iagomauricioo) ➡️ Iago Mauricio</li>
+</ol>
