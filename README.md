@@ -111,5 +111,8 @@
 
 <h2 align="center">Componentes da Solução</h2>
 <p align="left">A solução é centrada em um LLM que executa a seguinte tarefa principal:
-
+<ol>
+  <li>
 Identificação e Extração de Entidades: O LLM analisa o conteúdo dos dados de entrada, independentemente do formato (HTML, CSV, JSON, etc.), para identificar entidades e campos importantes e extrair suas informações, estruturando as entidades identificadas em um formato JSON padronizado, sendo capaz de aninhar entidades ou atributos dentro de outros quando contextualmente fizer sentido.</p>
+  </li>
+</ol>
