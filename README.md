@@ -118,6 +118,18 @@ Identificação e Extração de Entidades: O LLM analisa o conteúdo dos dados d
 </ol>
 
 <h2>Principais Benefícios da Abordagem</h2>
+
+<ol>
+    
+    
+    
+  <li>
 1. **Flexibilidade e Escalabilidade:** A utilização de LLMs permite que a solução se adapte a uma vasta gama de formatos de entrada, sem necessidade de ajustes manuais para cada novo tipo de dado.
+  </li>
+  <li>
 2. **Organização e Conformidade:** A estrutura de saída em JSON é padronizada e pode incluir relações complexas entre entidades, com validação incorporada para garantir que todos os dados relevantes sejam capturados corretamente.
+  </li>
+  <li>
 3. **Simplicidade na Implementação e Manutenção:** A abordagem centralizada em LLM permite uma implementação mais simples, com manutenção facilitada e escalabilidade para futuros aprimoramentos.
+  </li>
+</ol>
