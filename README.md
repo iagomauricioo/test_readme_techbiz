@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">Este projeto visa resolver o desafio de transformar inputs de dados em diversos formatos (XML, JSON, CSV, HTML, etc.) em um modelo <img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff" height="40" alt="jupyter logo"  height="9" alt="json logo"/> padronizado. Dada a complexidade e a variabilidade desses formatos, uma abordagem tradicional baseada em regras se mostraria insuficiente para lidar com as ambiguidades e a estrutura hierárquica dos dados.</p>
+<p align="left">Este projeto visa resolver o desafio de transformar inputs de dados em diversos formatos (XML, JSON, CSV, HTML, etc.) em um modelo JSON padronizado. Dada a complexidade e a variabilidade desses formatos, uma abordagem tradicional baseada em regras se mostraria insuficiente para lidar com as ambiguidades e a estrutura hierárquica dos dados.</p>
 
 ###
 
