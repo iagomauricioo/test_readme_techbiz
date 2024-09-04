@@ -16,8 +16,6 @@
 
 <h1 align="center">Em parceria com Roga DX 2024</h1>
 
-###
-
 <div align="center">
   <img height="100" src="https://github.com/user-attachments/assets/bb8d4ffb-df43-4643-8f96-386d841c5548"  />
 </div>
@@ -106,7 +104,7 @@
 
 ###
 
-<h2 align="center">Arquitetura criada e utilizada</h2>
+<h2 align="center">Algoritmo criado e utilizado</h2>
 
 <div align="center">
   <img height="auto" src="https://github.com/user-attachments/assets/ac6537eb-db3f-4ac9-a8ae-a7556daae2f3"  />
