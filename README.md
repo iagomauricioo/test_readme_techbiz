@@ -43,7 +43,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="40" alt="jupyter logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff" height="40" alt="jupyter logo"  />
+  <img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff" height="40" alt="jupyter logo"  height="40" alt="json logo"/>
 </div>
 
 ###
