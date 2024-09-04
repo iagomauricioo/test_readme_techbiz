@@ -34,6 +34,50 @@
 
 ###
 
+<h3 align="left">Exemplo de entrada de dados não tratados</h3>
+
+```xml
+<Products>
+    <ID>123</ID>
+    <Name>Product X</Name>
+    <Price>100.0</Price>
+    <LastUpdated>2023-09-01T12:00:00</LastUpdated>
+    <ReviewedBy>John Doe</ReviewedBy>
+    <InternalCode>PX100</InternalCode>
+    <WarehouseLocation>Shelf A3</WarehouseLocation>
+    <Notes>N/A</Notes>
+</Products>
+<Products>
+    <ID>456</ID>
+    <Price>150.0</Price>
+    <Name>Product Y</Name>
+    <LastUpdated>2023-09-01T12:00:00</LastUpdated>
+    <ReviewedBy>Jane Doe</ReviewedBy>
+    <InternalCode>PY150</InternalCode>
+    <WarehouseLocation>Shelf B5</WarehouseLocation>
+    <Notes>Special Handling Required</Notes>
+</Products>
+```
+
+
+
+<h3 align="left">Exemplo de JSON padronizado</h3>
+
+```json
+{
+    "sinapses.Products": [
+        {
+            "sinapses.Name": "Product X",
+            "sinapses.Price": 100.0
+        },
+        {
+            "sinapses.Name": "Product Y",
+            "sinapses.Price": 150.0
+        }
+    ]
+}
+```
+
 <h3 align="left">Tecnologias utilizadas</h3>
 
 ###
