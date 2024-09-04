@@ -187,3 +187,5 @@ O resultado será gerado na pasta `output`. O nome do arquivo de saída será o 
   <li>(https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)(https://github.com/dancorreia-swe) ➡️ Daniel Correia</li>
   <li>(https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)(https://github.com/iagomauricioo) ➡️ Iago Mauricio</li>
 </ol>
+
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)](#)
