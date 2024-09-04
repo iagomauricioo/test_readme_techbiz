@@ -104,7 +104,9 @@
 <h2 align="center">Arquitetura criada e utilizada</h2>
 
 <div align="center">
-  <img height="auto" src="https://github.com/user-attachments/assets/066cebf1-573b-4b2c-bc68-f47b1ec2930f"  />
+  ![arquitetura 2]()
+
+  <img height="auto" src="https://github.com/user-attachments/assets/bce6bac2-873e-4e03-ba27-2eadafe5718b"  />
 </div>
 
 ###
