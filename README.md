@@ -94,3 +94,9 @@
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white" height="40" alt="ChatGPT logo"  />
   
 </div>
+
+<h3 align="left">Arquitetura criada e utilizada</h3>
+
+<div align="center">
+  <img height="200" src="https://image.slidesharecdn.com/institucionaltechbizforensedigital-100701092914-phpapp02/85/institucional-techbiz-forense-digital-1-320.jpg?cb=1670119558"  />
+</div>
