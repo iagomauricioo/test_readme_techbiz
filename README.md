@@ -34,6 +34,19 @@
 
 ###
 
+<h3 align="left">Tecnologias utilizadas</h3>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="40" alt="jupyter logo"  />
+  <img width="12" />
+</div>
+
+###
+
 <h3 align="left">Exemplo de entrada de dados não tratados</h3>
 
 ```xml
@@ -78,15 +91,4 @@
 }
 ```
 
-<h3 align="left">Tecnologias utilizadas</h3>
 
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="40" alt="jupyter logo"  />
-  <img width="12" />
-</div>
-
-###
