@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://github.com/user-attachments/assets/bb8d4ffb-df43-4643-8f96-386d841c5548"  />
+  <img height="100" src="https://github.com/user-attachments/assets/bb8d4ffb-df43-4643-8f96-386d841c5548"  />
 </div>
 
 ###
