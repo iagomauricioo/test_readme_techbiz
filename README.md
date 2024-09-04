@@ -10,10 +10,6 @@
 </div>
   
 
-
-
-###
-
 <h1 align="center">Em parceria com Roga DX 2024</h1>
 
 <div align="center">
