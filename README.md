@@ -124,12 +124,19 @@ Identificação e Extração de Entidades: O LLM analisa o conteúdo dos dados d
     
     
   <li>
-Flexibilidade e Escalabilidade: A utilização de LLMs permite que a solução se adapte a uma vasta gama de formatos de entrada, sem necessidade de ajustes manuais para cada novo tipo de dado.
+    <strong>
+Flexibilidade e Escalabilidade: </strong>A utilização de LLMs permite que a solução se adapte a uma vasta gama de formatos de entrada, sem necessidade de ajustes manuais para cada novo tipo de dado.
   </li>
   <li>
-Organização e Conformidade: A estrutura de saída em JSON é padronizada e pode incluir relações complexas entre entidades, com validação incorporada para garantir que todos os dados relevantes sejam capturados corretamente.
+    <strong>
+      
+    
+Organização e Conformidade: </strong>A estrutura de saída em JSON é padronizada e pode incluir relações complexas entre entidades, com validação incorporada para garantir que todos os dados relevantes sejam capturados corretamente.
   </li>
   <li>
-Simplicidade na Implementação e Manutenção: A abordagem centralizada em LLM permite uma implementação mais simples, com manutenção facilitada e escalabilidade para futuros aprimoramentos.
+    <strong>
+      
+    
+Simplicidade na Implementação e Manutenção: </strong>A abordagem centralizada em LLM permite uma implementação mais simples, com manutenção facilitada e escalabilidade para futuros aprimoramentos.
   </li>
 </ol>
